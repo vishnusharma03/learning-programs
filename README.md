@@ -2,4 +2,4 @@
 Java Learning Programs
 By Vishnu Sharma.
 
-I am learning Java + DSA course
+I am learning Java + DSA
