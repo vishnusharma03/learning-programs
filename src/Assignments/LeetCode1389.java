@@ -1,4 +1,4 @@
-package alpha;
+package Assignments;
 
 import java.util.Arrays;
 
