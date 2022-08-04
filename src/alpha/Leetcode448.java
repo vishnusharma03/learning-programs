@@ -14,7 +14,7 @@ public class Leetcode448 {
         int i = 0;
         while(i < nums.length) {
             int correct = nums[i] - 1;
-                    if (correct < nums.length && nums[correct] != nums[i]) {
+                    if (correct <= nums.length && nums[correct] != nums[i]) {
                     int temp = nums[correct];
                     nums[correct] = nums[i];
                     nums[i] = temp;
