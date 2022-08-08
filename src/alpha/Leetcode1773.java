@@ -6,10 +6,7 @@ import java.util.Objects;
 
 public class Leetcode1773 {
     public static void main(String[] args) {
-        List<List<String>> items = new ArrayList<>();
-        for (int i = 0; i < 3; i++) {
-            items.get(i).add(String.valueOf(new ArrayList<String>()));
-        }
+
     }
 
 
